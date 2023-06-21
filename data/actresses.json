@@ -1,0 +1,1705 @@
+{
+    "0": {
+        "name": "沙月恵奈",
+        "name_ch": "沙月惠奈",
+        "height": 152,
+        "measurements": [85, 58, 86],
+        "cup": ["E"],
+        "info": "",
+        "sns": {
+            "youtube": "",
+            "twitter": "https://twitter.com/satsukiena",
+            "instagram": "https://www.instagram.com/satsukiena/",
+            "others": []
+        },
+        "rank": 5,
+        "tag": [1, 5, 11, 12, 13],
+        "img": "https://pbs.twimg.com/media/EoAHw79VQAkY23N?format=jpg&name=large"
+    },
+    "1": {
+        "name": "青空ひかり",
+        "name_ch": "青空光",
+        "height": 153,
+        "measurements": [85, 58,83],
+        "cup": ["D"],
+        "info": "",
+        "sns": {
+            "youtube": "https://www.youtube.com/channel/UCxtCduAFfNn65JdbmBtOzAA",
+            "twitter": "https://twitter.com/aozora_pikakin",
+            "instagram": "https://www.instagram.com/aozora_cmore/",
+            "others": []
+        },
+        "rank": 5,
+        "tag": [5, 9, 10, 11 ,13],
+        "img": "https://i.pinimg.com/736x/ba/0e/1b/ba0e1b78f0a2132d5b3b73a049a0b240.jpg"
+    },
+    "2": {
+        "name": "紺野みいな",
+        "name_ch": "紺野美衣奈",
+        "height": 157,
+        "measurements": [90, 57, 87],
+        "cup": ["E"],
+        "info": "",
+        "sns": {
+            "youtube": "",
+            "twitter": "https://mobile.twitter.com/konno_miina_sub",
+            "instagram": "",
+            "others": []
+        },
+        "rank": 5,
+        "tag": [5, 7, 8, 9, 12],
+        "img": "https://img.erogazou-pinkline.com/img/7680/konno_miina-7680-009.jpg"
+    },
+    "3": {
+        "name": "椎名そら",
+        "name_ch": "椎名空",
+        "height": 155,
+        "measurements": [88, 58, 83],
+        "cup": ["E"],
+        "info": "",
+        "sns": {
+            "youtube": "https://www.youtube.com/@user-fp8nz7wm6u/featured",
+            "twitter": "https://twitter.com/shiina_sora712",
+            "instagram": "",
+            "others": []
+        },
+        "rank": 5,
+        "tag": [1, 7, 8],
+        "img": "https://imgur.dcard.tw/UdDfxUGh.jpg"
+    },
+    "4": {
+        "name": "横宮七海",
+        "name_ch": "橫宮七海",
+        "height": 154,
+        "measurements": [88, 58, 84],
+        "cup": ["E"],
+        "info": "",
+        "sns": {
+            "youtube": "",
+            "twitter": "https://mobile.twitter.com/yokomiyananami_",
+            "instagram": "https://www.instagram.com/nanami__dayoo/",
+            "others": []
+        },
+        "rank": 5,
+        "tag": [2, 3, 5, 8, 11],
+        "img": "https://pbs.twimg.com/media/FKpR9SgVUAIfiFq.jpg:large"
+    }
+    ,
+    "5": {
+        "name": "天音まひな",
+        "name_ch": "天音真比奈 ",
+        "height": 145,
+        "measurements": [78, 58, 82],
+        "cup": ["G"],
+        "info": "",
+        "sns": {
+            "youtube": "",
+            "twitter": "https://mobile.twitter.com/maria_hoshi8",
+            "instagram": "https://www.instagram.com/maria_hoshi8/",
+            "others": []
+        },
+        "rank": 5,
+        "tag": [4, 5, 8, 9, 11],
+        "img": "https://pbs.twimg.com/media/FT_qNdpUEAA16JC?format=jpg&name=900x900"
+    }
+    ,
+    "6": {
+        "name": "本郷愛",
+        "name_ch": "本鄉愛",
+        "height": 158,
+        "measurements": [85, 53, 85],
+        "cup": ["F"],
+        "info": "",
+        "sns": {
+            "youtube": "https://www.youtube.com/@ai_hongo_/featured",
+            "twitter": "https://mobile.twitter.com/ai_hongo_",
+            "instagram": "https://www.instagram.com/ai_hongo_/",
+            "others": []
+        },
+        "rank": 5,
+        "tag": [5, 8, 9, 11],
+        "img": "https://pbs.twimg.com/media/FDx4d-waMAApBqQ.jpg:large"
+    }
+    ,
+    "7": {
+        "name": "涼森れむ",
+        "name_ch": "涼森玲夢",
+        "height": 160,
+        "measurements": [87, 58, 85],
+        "cup": ["F"],
+        "info": "",
+        "sns": {
+            "youtube": "",
+            "twitter": "https://twitter.com/remu19971203",
+            "instagram": "https://www.instagram.com/remu19971203/",
+            "others": []
+        },
+        "rank": 5,
+        "tag": [4, 5, 8, 9, 11, 12],
+        "img": "https://pbs.twimg.com/media/Ea2MFwQU0AEL-cQ?format=jpg&name=large"
+    },
+    "8": {
+        "name": "松下紗栄子",
+        "name_ch": "松下紗榮子",
+        "height": 165,
+        "measurements": [90, 56, 86],
+        "cup": ["G"],
+        "info": "",
+        "sns": {
+            "youtube": "",
+            "twitter": "",
+            "instagram": "https://www.instagram.com/matsushita_saeko/",
+            "others": []
+        },
+        "rank": 4,
+        "tag": [4, 6, 8, 9],
+        "img": "https://image.ruten.com.tw/g2/d/28/52/21919387714642_133.jpg"
+    },
+    "9": {
+        "name": "水卜さくら",
+        "name_ch": "水卜櫻",
+        "height": 152,
+        "measurements": [79, 52, 78],
+        "cup": ["G"],
+        "info": "",
+        "sns": {
+            "youtube": "",
+            "twitter": "https://twitter.com/archemiura",
+            "instagram": "",
+            "others": []
+        },
+        "rank": 5,
+        "tag": [3, 7, 8, 9, 12, 13],
+        "img": "https://pbs.twimg.com/media/EAYMO0pU0AANNGn.jpg:large"
+    },
+    "10": {
+        "name": "高瀬りな",
+        "name_ch": "高瀨里奈",
+        "height": 149,
+        "measurements": [88, 60, 85],
+        "cup": ["F"],
+        "info": "",
+        "sns": {
+            "youtube": "",
+            "twitter": "https://twitter.com/rina_takase",
+            "instagram": "https://www.instagram.com/rina_takase/",
+            "others": []
+        },
+        "rank": 5,
+        "tag": [3, 7, 8, 12, 13],
+        "img": "https://pbs.twimg.com/media/E3HkNfpVgAQYs_Z?format=jpg&name=large"
+    },
+    "11": {
+        "name": "東條なつ",
+        "name_ch": "東條夏",
+        "height": 156,
+        "measurements": [78, 55, 85],
+        "cup": ["C"],
+        "info": "",
+        "sns": {
+            "youtube": "",
+            "twitter": "https://twitter.com/_tojo_natsu",
+            "instagram": "https://www.instagram.com/tojonatsu/",
+            "others": []
+        },
+        "rank": 5,
+        "tag": [5, 9, 10, 11],
+        "img": "https://pbs.twimg.com/media/ENGFVOLUwAA7GzU?format=jpg&name=large"
+    },
+    "12": {
+        "name": "倉本すみれ",
+        "name_ch": "倉本蓳",
+        "height": 165,
+        "measurements": [85, 57, 85],
+        "cup": ["C"],
+        "info": "",
+        "sns": {
+            "youtube": "",
+            "twitter": "https://mobile.twitter.com/kuramotosumire",
+            "instagram": "https://www.instagram.com/kuramotosumire/",
+            "others": []
+        },
+        "rank": 5,
+        "tag": [5, 9, 11, 12 ,13],
+        "img": "https://pbs.twimg.com/media/FEzXgqZaUAYbh7f.jpg"
+    },
+    "13": {
+        "name": "天音ゆい",
+        "name_ch": "天音唯",
+        "height": 153,
+        "measurements": [80, 51, 82],
+        "cup": ["C"],
+        "info": "",
+        "sns": {
+            "youtube": "",
+            "twitter": "https://twitter.com/ama_ne_yui",
+            "instagram": "https://www.instagram.com/ama_ne_yui/",
+            "others": []
+        },
+        "rank": 2,
+        "tag": [9, 10, 13],
+        "img": "https://www.bigboobsjapan.com/wp-content/uploads/2020/07/BigBoobsJapan-004-350.jpg"
+    },
+    "14": {
+        "name": "神宮寺ナオ",
+        "name_ch": "神宮寺奈緒",
+        "height": 160,
+        "measurements": [86, 61, 88],
+        "cup": ["E"],
+        "info": "",
+        "sns": {
+            "youtube": "",
+            "twitter": "https://twitter.com/nao_jinguji",
+            "instagram": "https://www.instagram.com/jinguji_nao/",
+            "others": []
+        },
+        "rank": 5,
+        "tag": [1, 2, 4, 6, 7, 8],
+        "img": "https://pbs.twimg.com/media/FVrZKWuUYAEVqht?format=jpg&name=large"
+    },
+    "15": {
+        "name": "深田結梨",
+        "name_ch": "深田結梨",
+        "height": 154,
+        "measurements": [84, 64, 88],
+        "cup": ["F"],
+        "info": "",
+        "sns": {
+            "youtube": "",
+            "twitter": "https://twitter.com/yuuriman_",
+            "instagram": "https://www.instagram.com/yuuriman_/",
+            "others": []
+        },
+        "rank": 4,
+        "tag": [2, 7, 8, 11, 12, 13],
+        "img": "https://pbs.twimg.com/media/E7k3-mRVoAEzvoJ?format=jpg&name=900x900"
+    },
+    "16": {
+        "name": "桐谷まつり",
+        "name_ch": "桐谷茉莉",
+        "height": 165,
+        "measurements": [91, 59, 88],
+        "cup": ["H"],
+        "info": "",
+        "sns": {
+            "youtube": "",
+            "twitter": "https://twitter.com/matsuri_kiri",
+            "instagram": "",
+            "others": []
+        },
+        "rank": 5,
+        "tag": [7, 8, 9, 11],
+        "img": "https://cloud.xinmeitulu.com/WE+cavOf/cayPhu/xQaYcwIngH+Oo03VzszltR5IojpEjQiU8F3RWeiXMrgWOhRLuqTx1gpUQsj7X4sPwmFMH0pmVG9d5253itUcD6tilXNCxBwp1gLiUFl8Gp5JSiCH"
+    },
+    "17": {
+        "name": "栗山莉緒",
+        "name_ch": "栗山莉緒",
+        "height": 148,
+        "measurements": [86, 54, 83],
+        "cup": ["E"],
+        "info": "",
+        "sns": {
+            "youtube": "",
+            "twitter": "https://twitter.com/kuriyama_rio",
+            "instagram": "https://www.instagram.com/rio_kuriyama/",
+            "others": []
+        },
+        "rank": 4,
+        "tag": [6, 7, 8, 9],
+        "img": "https://cdn-origin.cool-style.com.tw/cool/2023/05/FtudBJgaUAEBpp8.jpg"
+    },
+    "18": {
+        "name": "桃乃木かな",
+        "name_ch": "桃乃木香奈",
+        "height": 153,
+        "measurements": [89, 58, 83],
+        "cup": ["F"],
+        "info": "",
+        "sns": {
+            "youtube": "https://www.youtube.com/@momonogi_official/featured",
+            "twitter": "https://twitter.com/kana_momonogi",
+            "instagram": "https://www.instagram.com/kana_momonogi/",
+            "others": []
+        },
+        "rank": 5,
+        "tag": [5, 7, 8, 9, 11],
+        "img": "https://unimap.wingzero.tw/unipic/16363932030_1.jpg"
+    },
+    "19": {
+        "name": "河北彩花",
+        "name_ch": "河北彩花",
+        "height": 169,
+        "measurements": [87, 57, 86],
+        "cup": ["E"],
+        "info": "",
+        "sns": {
+            "youtube": "",
+            "twitter": "https://twitter.com/saika_kawakita",
+            "instagram": "https://www.instagram.com/saika_kawakita__official/",
+            "others": []
+        },
+        "rank": 5,
+        "tag": [4, 8, 9, 11],
+        "img": "https://rooms.com.tw/wp-content/uploads/294004303_180752187725608_4059510317858245533_n.jpg"
+    },
+    "20": {
+        "name": "石川澪",
+        "name_ch": "石川澪",
+        "height": 158,
+        "measurements": [82, 58, 86],
+        "cup": ["B"],
+        "info": "",
+        "sns": {
+            "youtube": "",
+            "twitter": "https://mobile.twitter.com/_ishikawamio_",
+            "instagram": "https://www.instagram.com/ishikawa._.mio/",
+            "others": []
+        },
+        "rank": 5,
+        "tag": [5, 9, 11, 12, 13],
+        "img": "https://pbs.twimg.com/media/FTW33NaVEAAol2L?format=jpg&name=900x900"
+    },
+    "21": {
+        "name": "桜空もも",
+        "name_ch": "樱空桃",
+        "height": 160,
+        "measurements": [90, 5, 86],
+        "cup": ["G"],
+        "info": "",
+        "sns": {
+            "youtube": "",
+            "twitter": "https://mobile.twitter.com/Sakura__sub",
+            "instagram": "https://www.instagram.com/momotopia0312/",
+            "others": []
+        },
+        "rank": 5,
+        "tag": [4, 7, 8, 9, 11],
+        "img": "https://fempass.today/wp-content/uploads/2021/09/%E6%A1%9C%E7%A9%BA%E3%82%82%E3%82%82%E3%81%95%E3%82%93-299-%E3%81%AE%E3%82%B3%E3%83%94%E3%83%BC-scaled.jpg"
+    },
+    "22": {
+        "name": "山岸逢花",
+        "name_ch": "山岸逢花",
+        "height": 161,
+        "measurements": [82, 59, 86],
+        "cup": ["C"],
+        "info": "",
+        "sns": {
+            "youtube": "",
+            "twitter": "https://twitter.com/aikayamagishi",
+            "instagram": "https://www.instagram.com/aikayamagishi/",
+            "others": []
+        },
+        "rank": 4,
+        "tag": [4, 6, 9],
+        "img": "https://img.ttshow.tw/images/author/Hogan/234727469_896350594558789_8840009374147476778_n.jpg"
+    },
+    "23": {
+        "name": "天川そら",
+        "name_ch": "天川空",
+        "height": 164,
+        "measurements": [87, 56, 86],
+        "cup": ["G"],
+        "info": "",
+        "sns": {
+            "youtube": "",
+            "twitter": "https://mobile.twitter.com/iamamakawa_sora",
+            "instagram": "https://www.instagram.com/amakawa_sora_official/",
+            "others": []
+        },
+        "rank": 3,
+        "tag": [4, 7, 8, 9],
+        "img": "https://pbs.twimg.com/media/FA2ME01VIAANRHZ?format=jpg&name=large"
+    },
+    "24": {
+        "name": "高橋しょう子",
+        "name_ch": "高橋聖子",
+        "height": 161,
+        "measurements": [88, 59, 86],
+        "cup": ["G"],
+        "info": "",
+        "sns": {
+            "youtube": "",
+            "twitter": "https://twitter.com/ts_takasho",
+            "instagram": "https://www.instagram.com/ts_takasho/",
+            "others": []
+        },
+        "rank": 5,
+        "tag": [5, 7, 8, 9],
+        "img": "https://stat.ameba.jp/user_images/20170716/00/himemiyaian/d0/e5/j/o3929589313983258154.jpg?caw=800"
+    },
+    "25": {
+        "name": "上白美央",
+        "name_ch": "上白美央",
+        "height": 156,
+        "measurements": [88, 57, 87],
+        "cup": ["G"],
+        "info": "",
+        "sns": {
+            "youtube": "",
+            "twitter": "https://mobile.twitter.com/kamishiro_mio_",
+            "instagram": "https://www.instagram.com/kamishiro.mio/",
+            "others": []
+        },
+        "rank": 5,
+        "tag": [4, 7, 8],
+        "img": "https://pbs.twimg.com/media/FMFN5FdVIAEPl6o.jpg"
+    },
+    "26": {
+        "name": "吉岡ひより",
+        "name_ch": "吉岡日和",
+        "height": 160,
+        "measurements": [83, 57, 86],
+        "cup": ["D"],
+        "info": "",
+        "sns": {
+            "youtube": "",
+            "twitter": "https://twitter.com/yoshiokahiyorin",
+            "instagram": "https://www.instagram.com/yoshiokahiyorin/?hl=ja",
+            "others": []
+        },
+        "rank": 4,
+        "tag": [5, 9, 11, 13],
+        "img": "https://pbs.twimg.com/media/FH-OZ4HaQAAlYPm?format=jpg&name=medium"
+    },
+    "27": {
+        "name": "白川ゆず",
+        "name_ch": "白川柚子",
+        "height": 148,
+        "measurements": [82, 57, 82],
+        "cup": ["D"],
+        "info": "",
+        "sns": {
+            "youtube": "",
+            "twitter": "https://mobile.twitter.com/yuzu_shirakawa",
+            "instagram": "https://www.instagram.com/shirakawayuzu/",
+            "others": []
+        },
+        "rank": 3,
+        "tag": [3, 9, 11, 12, 13],
+        "img": "https://pbs.twimg.com/media/EMpCN31VAAIU9np?format=jpg&name=medium"
+    },
+    "28": {
+        "name": "夢乃あいか",
+        "name_ch": "夢乃愛華",
+        "height": 149,
+        "measurements": [79, 52, 78],
+        "cup": ["H"],
+        "info": "",
+        "sns": {
+            "youtube": "",
+            "twitter": "https://twitter.com/aika_yumeno",
+            "instagram": "https://www.instagram.com/yumenoaika826/",
+            "others": []
+        },
+        "rank": 4,
+        "tag": [3, 4, 8],
+        "img": "https://auctions.afimg.jp/h1022760121/ya/image/h1022760121.9.jpg"
+    },
+    "29": {
+        "name": "朝田ひまり",
+        "name_ch": "朝田日葵 ",
+        "height": 147,
+        "measurements": [84, 56, 81],
+        "cup": ["G"],
+        "info": "",
+        "sns": {
+            "youtube": "",
+            "twitter": "https://twitter.com/asada_himari",
+            "instagram": "https://www.instagram.com/asada_himari/",
+            "others": []
+        },
+        "rank": 5,
+        "tag": [3, 7, 8, 12, 13],
+        "img": "https://uwinfo.net/wp-content/uploads/2023/01/FlR9xl1acAErGEq.jpg"
+    },
+    "30": {
+        "name": "東雲みれい",
+        "name_ch": "東雲美玲",
+        "height": 162,
+        "measurements": [90, 59, 100],
+        "cup": ["G"],
+        "info": "",
+        "sns": {
+            "youtube": "",
+            "twitter": "https://twitter.com/mirei_shinonome",
+            "instagram": "",
+            "others": []
+        },
+        "rank": 4,
+        "tag": [7, 8, 9, 12, 13],
+        "img": "https://pbs.twimg.com/media/FQ3n5HMagAAO-iG.jpg"
+    },
+    "31": {
+        "name": "羽咲みはる",
+        "name_ch": "羽咲美晴",
+        "height": 151,
+        "measurements": [86, 59, 84],
+        "cup": ["F"],
+        "info": "",
+        "sns": {
+            "youtube": "https://www.youtube.com/@usachan./videos",
+            "twitter": "https://mobile.twitter.com/usa_miharu_",
+            "instagram": "https://www.instagram.com/miharu_usa/",
+            "others": []
+        },
+        "rank": 4,
+        "tag": [7, 8, 11, 13],
+        "img": "https://1.bp.blogspot.com/-ERJlpgVPOn8/YVwOME3lKGI/AAAAAAAAEGI/IEAY0lrzSbglx9oQtwWfuZwHARDgUmUzwCLcBGAsYHQ/s0/Miharu%2BUsa%2B%25E7%25BE%25BD%25E5%2592%25B2%25E3%2581%25BF%25E3%2581%25AF%25E3%2582%258B%2BGraphis%2BPurity%2B%25282%2529.jpg"
+    },
+    "32": {
+        "name": "MINAMO",
+        "name_ch": "",
+        "height": 153,
+        "measurements": [86, 56, 88],
+        "cup": ["E"],
+        "info": "",
+        "sns": {
+            "youtube": "",
+            "twitter": "https://twitter.com/m_i_n_a_m_o_",
+            "instagram": "https://www.instagram.com/minamo_j/",
+            "others": []
+        },
+        "rank": 5,
+        "tag": [4, 5, 7, 8, 9, 11],
+        "img": "https://attach.setn.com/newsimages/2021/07/26/3243399-PH.jpg"
+    },
+    "33": {
+        "name": "朝日りん",
+        "name_ch": "朝日鈴",
+        "height": 165,
+        "measurements": [90, 58, 90],
+        "cup": ["G"],
+        "info": "",
+        "sns": {
+            "youtube": "",
+            "twitter": "https://twitter.com/wish_rin_",
+            "instagram": "https://www.instagram.com/wish_rin/",
+            "others": []
+        },
+        "rank": 3,
+        "tag": [4, 7, 8, 12],
+        "img": "https://pbs.twimg.com/media/E7INYwyVIAEwiHU.jpg"
+    },
+    "34": {
+        "name": "椿りか",
+        "name_ch": "椿莉香",
+        "height": 158,
+        "measurements": [88, 58, 89],
+        "cup": ["H"],
+        "info": "",
+        "sns": {
+            "youtube": "https://www.youtube.com/channel/UCUbDCcTBW7FKu_ObIjwdPKA",
+            "twitter": "https://twitter.com/g_style_rika",
+            "instagram": "https://www.instagram.com/tsu_chan44rika/",
+            "others": []
+        },
+        "rank": 5,
+        "tag": [1, 4, 7, 8, 11],
+        "img": "https://pbs.twimg.com/media/EX5dywpU4AE13R5.jpg"
+    },
+    "35": {
+        "name": "安達夕莉",
+        "name_ch": "安達夕莉",
+        "height": 152,
+        "measurements": [87, 56, 83],
+        "cup": ["G"],
+        "info": "",
+        "sns": {
+            "youtube": "",
+            "twitter": "https://mobile.twitter.com/yuuri_adachi",
+            "instagram": "https://www.instagram.com/yuuri_adachi/",
+            "others": []
+        },
+        "rank": 3,
+        "tag": [7, 8, 9, 11],
+        "img": "https://pbs.twimg.com/media/Fahz1aHVQAMcZKX?format=jpg&name=large"
+    },
+    "36": {
+        "name": "時田亜美",
+        "name_ch": "時田亞美",
+        "height": 160,
+        "measurements": [83, 56, 86],
+        "cup": ["D"],
+        "info": "",
+        "sns": {
+            "youtube": "",
+            "twitter": "https://twitter.com/tokita_cmore",
+            "instagram": "https://www.instagram.com/tokita_ami/",
+            "others": []
+        },
+        "rank": 4,
+        "tag": [4, 9, 11],
+        "img": "https://pbs.twimg.com/media/FSJu_RoVsAIeB9P?format=jpg&name=900x900"
+    },
+    "37": {
+        "name": "香水じゅん",
+        "name_ch": "香水純",
+        "height": 157,
+        "measurements": [82, 55, 85],
+        "cup": ["C"],
+        "info": "",
+        "sns": {
+            "youtube": "",
+            "twitter": "https://twitter.com/jun_kasui",
+            "instagram": "https://www.instagram.com/jun_kasui_/",
+            "others": []
+        },
+        "rank": 5,
+        "tag": [4, 5, 9, 10, 11, 13],
+        "img": "https://pbs.twimg.com/media/FqSeeKmaUAAp-Z2?format=jpg&name=900x900"
+    },
+    "38": {
+        "name": "さつき芽衣",
+        "name_ch": "沙月芽衣",
+        "height":  154,
+        "measurements": [87, 60, 86],
+        "cup": ["G","F"],
+        "info": "",
+        "sns": {
+            "youtube": "",
+            "twitter": "https://twitter.com/satsuki_mei816",
+            "instagram": "https://www.instagram.com/mines_satsuki_mei/",
+            "others": []
+        },
+        "rank": 5,
+        "tag": [1, 2, 7, 8, 9, 11, 12],
+        "img": "https://instagrammernews.com/image/CR_Dg7gnA93"
+    },
+    "39": {
+        "name": "吉沢明歩",
+        "name_ch": "吉澤明步",
+        "height": 161,
+        "measurements": [83, 62, 88],
+        "cup": ["E"],
+        "info": "",
+        "sns": {
+            "youtube": "https://www.youtube.com/@user-pe4rq8tx2l/featured",
+            "twitter": "https://twitter.com/akiho_yoshi",
+            "instagram": "https://www.instagram.com/akiho_net/",
+            "others": []
+        },
+        "rank": 5,
+        "tag": [4, 5, 9, 11],
+        "img": "https://saga.ismcdn.jp/mwimgs/8/8/600wm/img_8826b42ebfb3199dd54b4714512829b6656418.jpg"
+    },
+    "40": {
+        "name": "宝生リリー",
+        "name_ch": "寶生莉莉",
+        "height": 159,
+        "measurements": [90, 56, 86],
+        "cup": ["F"],
+        "info": "",
+        "sns": {
+            "youtube": "",
+            "twitter": "https://mobile.twitter.com/waleaav",
+            "instagram": "https://www.instagram.com/pua1002/?hl=ja",
+            "others": []
+        },
+        "rank": 4,
+        "tag": [4, 7, 8, 9, 11],
+        "img": "https://i.pinimg.com/736x/14/2b/a4/142ba4718e6caf18d57c67f47cd64fb2.jpg"
+    },
+    "41": {
+        "name": "浜崎真緒",
+        "name_ch": "濱崎真緒",
+        "height": 165,
+        "measurements": [85, 59, 84],
+        "cup": ["F"],
+        "info": "",
+        "sns": {
+            "youtube": "",
+            "twitter": "https://twitter.com/hamasaki_mao",
+            "instagram": "https://www.instagram.com/maohamasaki_official/",
+            "others": []
+        },
+        "rank": 3,
+        "tag": [1, 4, 7, 8],
+        "img": "https://cdn-origin.cool-style.com.tw/cool/2020/01/65416940_147472719671174_5943702249823410619_n.jpg"
+    },
+    "42": {
+        "name": "天馬ゆい",
+        "name_ch": "天馬由衣",
+        "height": 159,
+        "measurements": [83, 54, 86],
+        "cup": ["B"],
+        "info": "",
+        "sns": {
+            "youtube": "",
+            "twitter": "https://mobile.twitter.com/tenma_yui2",
+            "instagram": "https://www.instagram.com/tenma_yuichan/",
+            "others": []
+        },
+        "rank": 5,
+        "tag": [2, 7, 9, 10, 12, 13],
+        "img": "https://pbs.twimg.com/media/FTqDCN5akAAgBvi.jpg:large"
+    },
+    "43": {
+        "name": "相沢みなみ",
+        "name_ch": "相澤南 ",
+        "height": 155,
+        "measurements": [80, 54, 82],
+        "cup": ["D"],
+        "info": "",
+        "sns": {
+            "youtube": "https://www.youtube.com/@user-ns6vo6ur9p/featured",
+            "twitter": "https://twitter.com/minami_aizawa_",
+            "instagram": "https://www.instagram.com/epoint2016/?hl=ja",
+            "others": []
+        },
+        "rank": 3,
+        "tag": [4, 6, 9],
+        "img": "https://pbs.twimg.com/media/FMhQD_4aQAA0aui?format=jpg&name=large"
+    },
+    "44": {
+        "name": "斎藤あみり",
+        "name_ch": "齋藤亞美里",
+        "height": 160,
+        "measurements": [85, 59, 88],
+        "cup": ["F"],
+        "info": "",
+        "sns": {
+            "youtube": "",
+            "twitter": "https://twitter.com/amirichan123",
+            "instagram": "https://www.instagram.com/amirichan123/?hl=ja",
+            "others": []
+        },
+        "rank": 5,
+        "tag": [1, 2, 7, 8, 9, 11, 13],
+        "img": "https://ignewsimg.s3.ap-northeast-1.wasabisys.com/Cs0vGTCpjkM"
+    },
+    "45": {
+        "name": "小倉七海",
+        "name_ch": "小倉七海",
+        "height": 161,
+        "measurements": [92, 58, 83],
+        "cup": ["F"],
+        "info": "",
+        "sns": {
+            "youtube": "",
+            "twitter": "https://mobile.twitter.com/_hoshinonono_",
+            "instagram": "https://www.instagram.com/nono.hoshino/",
+            "others": []
+        },
+        "rank": 5,
+        "tag": [5, 7, 11, 12, 13],
+        "img": "https://pbs.twimg.com/media/FDROVFmakAI4Rg_?format=jpg&name=4096x4096"
+    },
+    "46": {
+        "name": "新ありな",
+        "name_ch": "新有菜",
+        "height": 167,
+        "measurements": [84, 58, 84],
+        "cup": ["C"],
+        "info": "",
+        "sns": {
+            "youtube": "https://www.youtube.com/@user-px2ox5uw8s/featured",
+            "twitter": "https://mobile.twitter.com/arina_aa9",
+            "instagram": "https://www.instagram.com/arina_arata2/",
+            "others": []
+        },
+        "rank": 3,
+        "tag": [4, 9],
+        "img": "https://truth.bahamut.com.tw/s01/202208/83599222ceb7f156f6a6b1d69eee2755.JPG"
+    },
+    "47": {
+        "name": "三浦乃愛",
+        "name_ch": "三浦乃愛",
+        "height": 168,
+        "measurements": [88, 59, 88],
+        "cup": ["F"],
+        "info": "",
+        "sns": {
+            "youtube": "",
+            "twitter": "https://twitter.com/MiuraNoa",
+            "instagram": "",
+            "others": []
+        },
+        "rank": 4,
+        "tag": [7, 8, 9, 11, 13],
+        "img": "https://pbs.twimg.com/media/EtCHRLhUYAIurCM.jpg"
+    },
+    "48": {
+        "name": "天使もえ",
+        "name_ch": "天使萌",
+        "height": 155,
+        "measurements": [84, 57, 82],
+        "cup": ["D"],
+        "info": "",
+        "sns": {
+            "youtube": "https://www.youtube.com/@user-kw9is6xk7q/featured",
+            "twitter": "https://twitter.com/amatsuka_moe",
+            "instagram": "https://www.instagram.com/amatsuka.moe/",
+            "others": []
+        },
+        "rank": 3,
+        "tag": [4, 7, 9],
+        "img": "https://img.bingfeng.tw/bingfeng/forum/202003/17/190504e66mzh0x2eivizzv.jpg"
+    },
+    "49": {
+        "name": "白桃はな",
+        "name_ch": "白桃花",
+        "height": 154,
+        "measurements": [78, 58, 88],
+        "cup": ["C"],
+        "info": "",
+        "sns": {
+            "youtube": "",
+            "twitter": "https://twitter.com/shirato_hana",
+            "instagram": "https://www.instagram.com/shirato__hana/",
+            "others": []
+        },
+        "rank": 4,
+        "tag": [2, 3, 7, 9, 10, 11, 12, 13],
+        "img": "https://pbs.twimg.com/media/FcRY7mtagAEnbnQ?format=jpg&name=large"
+    },
+    "50": {
+        "name": "結城りの",
+        "name_ch": "結城莉乃",
+        "height": 165,
+        "measurements": [86, 57, 83],
+        "cup": ["E"],
+        "info": "",
+        "sns": {
+            "youtube": "",
+            "twitter": "https://mobile.twitter.com/rino_yuuki00",
+            "instagram": "https://www.instagram.com/yuki_rino1/",
+            "others": []
+        },
+        "rank": 5,
+        "tag": [1, 2, 3, 4, 6, 7, 8],
+        "img": "https://pbs.twimg.com/media/FYfoSvDUsAYN7EA.jpg:large"
+    },
+    "51": {
+        "name": "藤田こずえ",
+        "name_ch": "藤田梢",
+        "height": 153,
+        "measurements": [82, 58, 82],
+        "cup": ["C"],
+        "info": "",
+        "sns": {
+            "youtube": "https://www.youtube.com/channel/UCOSL30bbOfk18_zxZ9Jt4dg",
+            "twitter": "https://twitter.com/kozue__fujita",
+            "instagram": "https://www.instagram.com/kozuefujita0520/",
+            "others": []
+        },
+        "rank": 5,
+        "tag": [3, 12, 13],
+        "img": "https://pbs.twimg.com/media/FbAw9F_aIAEFH_F?format=jpg&name=large"
+    },
+    "52": {
+        "name": "真白美生",
+        "name_ch": "真白美生",
+        "height": 156,
+        "measurements": [85, 56, 88],
+        "cup": ["D"],
+        "info": "",
+        "sns": {
+            "youtube": "",
+            "twitter": "",
+            "instagram": "",
+            "others": []
+        },
+        "rank": 3,
+        "tag": [9, 11, 13],
+        "img": "https://pbs.twimg.com/media/E22Sf8GVcAIc-l2?format=jpg&name=large"
+    },
+    "53": {
+        "name": "沢北みなみ",
+        "name_ch": "澤北南",
+        "height": 154,
+        "measurements": [85, 62, 90],
+        "cup": ["E"],
+        "info": "",
+        "sns": {
+            "youtube": "",
+            "twitter": "https://mobile.twitter.com/minami_sawakita",
+            "instagram": "https://www.instagram.com/minami_sawakita/?hl=ja",
+            "others": []
+        },
+        "rank": 4,
+        "tag": [4, 7, 8, 9, 11],
+        "img": "https://pbs.twimg.com/media/FYBJrU4aQAEqUOX.jpg:large"
+    },
+    "54": {
+        "name": "一宮希帆",
+        "name_ch": "一宮希帆",
+        "height": 159,
+        "measurements": [-1, -1, -1],
+        "cup": ["E"],
+        "info": "",
+        "sns": {
+            "youtube": "",
+            "twitter": "https://mobile.twitter.com/kihochan33",
+            "instagram": "https://www.instagram.com/Ichimiyakiho/",
+            "others": []
+        },
+        "rank": 4,
+        "tag": [5, 9, 11, 12, 13],
+        "img": "https://pbs.twimg.com/media/Fbc5JLmVEAAisO8?format=jpg&name=4096x4096"
+    },
+    "55": {
+        "name": "柏木こなつ",
+        "name_ch": "柏木小夏",
+        "height": 155,
+        "measurements": [-1, -1, -1],
+        "cup": ["F"],
+        "info": "",
+        "sns": {
+            "youtube": "",
+            "twitter": "",
+            "instagram": "",
+            "others": []
+        },
+        "rank": 5,
+        "tag": [7, 8, 12, 13],
+        "img": "https://pbs.twimg.com/media/FkQR4w8aMAAAin1?format=jpg&name=large"
+    },
+    "56": {
+        "name": "月野かすみ",
+        "name_ch": "月野香澄",
+        "height": 151,
+        "measurements": [96, 57, 84],
+        "cup": ["H"],
+        "info": "",
+        "sns": {
+            "youtube": "",
+            "twitter": "https://twitter.com/tsukino_kasumi",
+            "instagram": "https://www.instagram.com/tsukinokasumi/",
+            "others": []
+        },
+        "rank": 3,
+        "tag": [1, 3, 7, 8, 11],
+        "img": "https://pbs.twimg.com/media/EicT5sdUwAABrWO.jpg"
+    },
+    "57": {
+        "name": "深沢いのり",
+        "name_ch": "深澤祈莉",
+        "height": 164,
+        "measurements": [86, 60, 92],
+        "cup": ["G"],
+        "info": "",
+        "sns": {
+            "youtube": "",
+            "twitter": "https://twitter.com/inori_fukazawa",
+            "instagram": "",
+            "others": []
+        },
+        "rank": 4,
+        "tag": [4, 7],
+        "img": "https://mblogthumb-phinf.pstatic.net/MjAyMDA2MTVfMjA3/MDAxNTkyMjAyNDQ5NzE2.DTAzhh9wp4Wb4bnlke9xuVLlD7T7-h_Z9t6LA6YZSGcg.sEs2oZVFGp2E43kDr7jMu3UJbqZcYTiV9laNJU96QiUg.JPEG.aoijt/1592202447937.jpg?type=w800"
+    },
+    "58": {
+        "name": "八木奈々",
+        "name_ch": "八木奈奈",
+        "height": 157,
+        "measurements": [82, 56, 86],
+        "cup": ["E"],
+        "info": "",
+        "sns": {
+            "youtube": "",
+            "twitter": "https://twitter.com/yaginana0903",
+            "instagram": "",
+            "others": []
+        },
+        "rank": 3,
+        "tag": [1, 4, 7, 9],
+        "img": "https://pbs.twimg.com/media/Fbsgo5PUsAAL8qK?format=jpg&name=large"
+    },
+    "59": {
+        "name": "小野六花",
+        "name_ch": "小野六花",
+        "height": 148,
+        "measurements": [81, 58, 82],
+        "cup": ["C"],
+        "info": "",
+        "sns": {
+            "youtube": "https://www.youtube.com/@onorikkach/featured",
+            "twitter": "https://twitter.com/onorikka",
+            "instagram": "https://www.instagram.com/ono_rikka/",
+            "others": []
+        },
+        "rank": 5,
+        "tag": [3, 12, 13],
+        "img": "https://pbs.twimg.com/media/Ep62OHSVgAADCL7.jpg"
+    },
+    "60": {
+        "name": "明日見未来",
+        "name_ch": "明日見未來",
+        "height": 170,
+        "measurements": [91, 60, 87],
+        "cup": ["G"],
+        "info": "",
+        "sns": {
+            "youtube": "",
+            "twitter": "https://mobile.twitter.com/asumi_mirai_",
+            "instagram": "https://www.instagram.com/asumi_mirai/",
+            "others": []
+        },
+        "rank": 3,
+        "tag": [4, 8, 9, 11],
+        "img": "https://truth.bahamut.com.tw/s01/202209/42ea021908cb4bc2bc5d9fea6f843eed.JPG"
+    },
+    "61": {
+        "name": "葵いぶき",
+        "name_ch": "葵伊吹",
+        "height": 162,
+        "measurements": [86, 58, 88],
+        "cup": ["G"],
+        "info": "",
+        "sns": {
+            "youtube": "",
+            "twitter": "https://twitter.com/aoi__ibuki",
+            "instagram": "https://www.instagram.com/aoi__ibuki/",
+            "others": []
+        },
+        "rank": 4,
+        "tag": [5, 8, 9, 12, 13],
+        "img": "https://img.discuss.com.hk/d/attachments/day_210322/20210322_670171a29a044387e3e9UnUdywEGFpT2.jpg"
+    },
+    "62": {
+        "name": "鈴村あいり",
+        "name_ch": "鈴村愛里",
+        "height": 152,
+        "measurements": [82, 53, 80],
+        "cup": ["D"],
+        "info": "",
+        "sns": {
+            "youtube": "",
+            "twitter": "https://mobile.twitter.com/airi_mgr",
+            "instagram": "",
+            "others": []
+        },
+        "rank": 3,
+        "tag": [4, 9],
+        "img": "https://auctions.afimg.jp/471502242/ya/image/471502242.1.jpg"
+    },
+    "63": {
+        "name": "皆瀬あかり",
+        "name_ch": "皆瀨明里",
+        "height": 158,
+        "measurements": [83, 59, 85],
+        "cup": ["D"],
+        "info": "",
+        "sns": {
+            "youtube": "https://www.youtube.com/channel/UCSMTMc2SP7IRpKIA9hAHvSg",
+            "twitter": "https://mobile.twitter.com/minase_akari_",
+            "instagram": "https://www.instagram.com/mmmnase314/",
+            "others": []
+        },
+        "rank": 4,
+        "tag": [12, 13],
+        "img": "https://pbs.twimg.com/media/FLiWG4TVIAMV5uc.jpg:large"
+    },
+    "64": {
+        "name": "南乃そら",
+        "name_ch": "南乃空",
+        "height": 161,
+        "measurements": [84, 60, 86],
+        "cup": ["E"],
+        "info": "",
+        "sns": {
+            "youtube": "",
+            "twitter": "https://twitter.com/minamino_soraaa",
+            "instagram": "https://www.instagram.com/_sorailocompany_/",
+            "others": []
+        },
+        "rank": 4,
+        "tag": [5, 9, 11, 12, 13],
+        "img": "https://jdailyhk.com/wp-content/uploads/2020/09/%E5%8D%97%E4%B9%83%E7%A9%BA9.jpg"
+    },
+    "65": {
+        "name": "朝倉ここな",
+        "name_ch": "朝倉心奈",
+        "height": 153,
+        "measurements": [88, 56, 88],
+        "cup": ["G"],
+        "info": "",
+        "sns": {
+            "youtube": "",
+            "twitter": "https://twitter.com/cocona_asakura",
+            "instagram": "https://www.instagram.com/asakura._.cocona/",
+            "others": []
+        },
+        "rank": 5,
+        "tag": [1, 4, 6, 7, 8, 11],
+        "img": "https://pbs.twimg.com/media/E0Mcy18UYAABGxR?format=jpg&name=4096x4096"
+    },
+    "66": {
+        "name": "葉風ゆりあ",
+        "name_ch": " 葉風優莉亞",
+        "height": 160,
+        "measurements": [85, 56, 85],
+        "cup": ["E"],
+        "info": "",
+        "sns": {
+            "youtube": "",
+            "twitter": "",
+            "instagram": "",
+            "others": []
+        },
+        "rank": 4,
+        "tag": [9, 11, 13],
+        "img": "https://pbs.twimg.com/media/FcXBOauaUAEsLYp?format=jpg&name=large"
+    },
+    "67": {
+        "name": "西宮ゆめ",
+        "name_ch": "西宮夢",
+        "height": 158,
+        "measurements": [85, 56, 86],
+        "cup": ["D"],
+        "info": "",
+        "sns": {
+            "youtube": "",
+            "twitter": "https://twitter.com/_nishimiyayume",
+            "instagram": "https://www.instagram.com/nishimiya_yume/",
+            "others": []
+        },
+        "rank": 3,
+        "tag": [4, 7, 11],
+        "img": "https://pbs.twimg.com/media/EKC2fKqU0AAhsdi?format=jpg&name=large"
+    },
+    "68": {
+        "name": "日向かえで",
+        "name_ch": "日向楓",
+        "height": 162,
+        "measurements": [92, 55, 90],
+        "cup": ["G"],
+        "info": "",
+        "sns": {
+            "youtube": "",
+            "twitter": "https://mobile.twitter.com/maple_princess_",
+            "instagram": "https://www.instagram.com/hime.x_x/",
+            "others": []
+        },
+        "rank": 3,
+        "tag": [7, 8, 9],
+        "img": "https://pbs.twimg.com/media/FhgnxM6UoAAPEkL?format=jpg&name=large"
+    },
+    "69": {
+        "name": "七嶋舞",
+        "name_ch": "七嶋舞",
+        "height": 160,
+        "measurements": [84, 58, 85],
+        "cup": ["D"],
+        "info": "",
+        "sns": {
+            "youtube": "",
+            "twitter": "https://twitter.com/nanashima_mai",
+            "instagram": "https://www.instagram.com/nanashima_mai/",
+            "others": []
+        },
+        "rank": 4,
+        "tag": [1, 7, 9],
+        "img": "https://pbs.twimg.com/media/E96KLbAUUAQEoeV.jpg"
+    },
+    "70": {
+        "name": "牧野みおな",
+        "name_ch": "牧野未央奈",
+        "height": -1,
+        "measurements": [-1, -1, -1],
+        "cup": ["F"],
+        "info": "",
+        "sns": {
+            "youtube": "",
+            "twitter": "https://twitter.com/Makino_Miona",
+            "instagram": "",
+            "others": []
+        },
+        "rank": 4,
+        "tag": [3, 12, 13],
+        "img": "https://pbs.twimg.com/media/FXGqSYNUUAAPMFw?format=jpg&name=large"
+    },
+    "71": {
+        "name": "双葉くるみ",
+        "name_ch": "雙葉胡桃",
+        "height": -1,
+        "measurements": [-1, -1, -1],
+        "cup": [""],
+        "info": "",
+        "sns": {
+            "youtube": "",
+            "twitter": "https://mobile.twitter.com/963_futaba",
+            "instagram": "",
+            "others": []
+        },
+        "rank": 3,
+        "tag": [3, 9, 10, 12, 13],
+        "img": "https://pbs.twimg.com/media/FcqSpjvaAAIO-w3?format=jpg&name=900x900"
+    },
+    "72": {
+        "name": "天然かのん",
+        "name_ch": "天然美月",
+        "height": 149,
+        "measurements": [84, 58, 87],
+        "cup": ["C"],
+        "info": "",
+        "sns": {
+            "youtube": "https://www.youtube.com/channel/UCOvgJe5tGWoliDLx1oe8dWw",
+            "twitter": "https://mobile.twitter.com/amane__mizuky",
+            "instagram": "https://www.instagram.com/amane__mizuki1222/",
+            "others": []
+        },
+        "rank": 4,
+        "tag": [1, 4, 9, 10, 11],
+        "img": "https://pbs.twimg.com/media/E4Cnp4KVgAEsZf0.jpg:large"
+    },
+    "73": {
+        "name": "三宮つばき",
+        "name_ch": "三宮椿",
+        "height": 150,
+        "measurements": [89, 54, 83],
+        "cup": ["G"],
+        "info": "",
+        "sns": {
+            "youtube": "",
+            "twitter": "https://twitter.com/sannomiya_cmore",
+            "instagram": "https://www.instagram.com/tsubaki_s_cmore/",
+            "others": []
+        },
+        "rank": 3,
+        "tag": [4, 6, 7, 8],
+        "img": "https://pbs.twimg.com/media/EvXC80YVkAA7_RX.jpg"
+    },
+    "74": {
+        "name": "富田優衣",
+        "name_ch": "富田優衣",
+        "height": 157,
+        "measurements": [85, 58, 90],
+        "cup": ["E"],
+        "info": "",
+        "sns": {
+            "youtube": "",
+            "twitter": "",
+            "instagram": "",
+            "others": []
+        },
+        "rank": 4,
+        "tag": [7, 8, 9, 12, 13],
+        "img": "https://pbs.twimg.com/media/ELRgzLhUUAAviC4?format=jpg&name=large"
+    },
+    "75": {
+        "name": "岬あずさ",
+        "name_ch": "岬梓",
+        "height": 155,
+        "measurements": [87, 60, 87],
+        "cup": ["F"],
+        "info": "",
+        "sns": {
+            "youtube": "https://www.youtube.com/channel/UCNcgHk2NrTI0Rx6nopkDgDg",
+            "twitter": "https://twitter.com/misaki_azusa",
+            "instagram": "https://www.instagram.com/azu_misaki/",
+            "others": []
+        },
+        "rank": 4,
+        "tag": [1, 2, 7, 8],
+        "img": "https://pbs.twimg.com/media/FeSrFiBUoAE3B9n.jpg"
+    },
+    "76": {
+        "name": "鈴木心春",
+        "name_ch": "鈴木心春",
+        "height": 160,
+        "measurements": [88, 58, 85],
+        "cup": ["F"],
+        "info": "",
+        "sns": {
+            "youtube": "",
+            "twitter": "https://twitter.com/koharusuzuki",
+            "instagram": "",
+            "others": []
+        },
+        "rank": 2,
+        "tag": [7, 8, 11],
+        "img": "https://livedoor.blogimg.jp/beelzeboulxxx/imgs/4/8/4848649a.jpg"
+    },
+    "77": {
+        "name": "咲々原リン",
+        "name_ch": "咲咲原凜",
+        "height": 159,
+        "measurements": [84, 56, 85],
+        "cup": ["E"],
+        "info": "",
+        "sns": {
+            "youtube": "",
+            "twitter": "",
+            "instagram": "",
+            "others": []
+        },
+        "rank": 3,
+        "tag": [9, 11],
+        "img": "https://img.girlygirlpic.com/4jwcwsp/4om5t6y/54ditbk/1ykiejm/12mlqxd.jpg"
+    },
+    "78": {
+        "name": "岬ななみ",
+        "name_ch": "岬奈奈美",
+        "height": 150,
+        "measurements": [83, 57, 87],
+        "cup": ["D"],
+        "info": "",
+        "sns": {
+            "youtube": "",
+            "twitter": "https://twitter.com/m_nanami_m",
+            "instagram": "https://www.instagram.com/misaki_nanami7/",
+            "others": []
+        },
+        "rank": 3,
+        "tag": [4, 6, 9],
+        "img": "https://pbs.twimg.com/media/DVzRa9tVAAAwq7l?format=jpg&name=large"
+    },
+    "79": {
+        "name": "伊藤舞雪",
+        "name_ch": "伊藤舞雪",
+        "height": 160,
+        "measurements": [88, 54, 89],
+        "cup": ["F"],
+        "info": "",
+        "sns": {
+            "youtube": "",
+            "twitter": "https://twitter.com/mayukiito",
+            "instagram": "https://www.instagram.com/myk__gram/",
+            "others": []
+        },
+        "rank": 4,
+        "tag": [1, 2, 4, 7, 8, 9, 11],
+        "img": "https://pbs.twimg.com/media/Eojv_-gVQAArkqv?format=jpg&name=large"
+    },
+    "80": {
+        "name": "北野のぞみ",
+        "name_ch": "北野望",
+        "height": 155,
+        "measurements": [87, 59, 91],
+        "cup": [""],
+        "info": "",
+        "sns": {
+            "youtube": "",
+            "twitter": "",
+            "instagram": "",
+            "others": []
+        },
+        "rank": 4,
+        "tag": [5, 8, 9, 11],
+        "img": "https://i.pinimg.com/originals/1a/44/58/1a44584840b5a7c91426d4099a69aeac.jpg"
+    },
+    "81": {
+        "name": "本庄鈴",
+        "name_ch": "本庄鈴",
+        "height": 163,
+        "measurements": [85, 59, 88],
+        "cup": ["C"],
+        "info": "",
+        "sns": {
+            "youtube": "",
+            "twitter": "https://twitter.com/honjosuzu",
+            "instagram": "https://www.instagram.com/honjo_suzu/",
+            "others": []
+        },
+        "rank": 3,
+        "tag": [4, 9],
+        "img": "https://pbs.twimg.com/media/DtDkRP4UUAEVWi0?format=jpg&name=medium"
+    },
+    "82": {
+        "name": "皆月ひかる",
+        "name_ch": "皆月光",
+        "height": 148,
+        "measurements": [83, 55, 85],
+        "cup": ["B"],
+        "info": "",
+        "sns": {
+            "youtube": "",
+            "twitter": "https://twitter.com/hikaru_emo",
+            "instagram": "https://www.instagram.com/hikaru_emot/",
+            "others": []
+        },
+        "rank": 3,
+        "tag": [3, 10, 12, 13],
+        "img": "https://stat.ameba.jp/user_images/20211113/18/sakuraizone/f4/75/j/o0800080015030843847.jpg"
+    },
+    "83": {
+        "name": "宮西ひかる",
+        "name_ch": "宮西光",
+        "height": 161,
+        "measurements": [88, 61, 86],
+        "cup": ["E"],
+        "info": "",
+        "sns": {
+            "youtube": "",
+            "twitter": "https://mobile.twitter.com/miyanishihikaru",
+            "instagram": "",
+            "others": []
+        },
+        "rank": 3,
+        "tag": [4, 8],
+        "img": "https://pbs.twimg.com/media/FIlCwpyaAAoz_9Z.jpg"
+    },
+    "84": {
+        "name": "日向なつ",
+        "name_ch": "日向夏",
+        "height": 154,
+        "measurements": [83, 55, 88],
+        "cup": ["E"],
+        "info": "",
+        "sns": {
+            "youtube": "",
+            "twitter": "https://mobile.twitter.com/natsu_hinata_44",
+            "instagram": "",
+            "others": []
+        },
+        "rank": 3,
+        "tag": [3, 12, 13],
+        "img": "https://64.media.tumblr.com/0d51819f4fa6d36c59bb4a6607d57b05/df719ed54ed36227-93/s1280x1920/989dbfbb7422ec9c3d875960c9171e03438e2127.jpg"
+    },
+    "85": {
+        "name": "鷲尾めい",
+        "name_ch": "鷲尾芽衣",
+        "height": 165,
+        "measurements": [104, 59, 89],
+        "cup": ["J"],
+        "info": "",
+        "sns": {
+            "youtube": "",
+            "twitter": "",
+            "instagram": "",
+            "others": []
+        },
+        "rank": 3,
+        "tag": [8, 9],
+        "img": "https://pbs.twimg.com/media/EV4SYSlUcAImqCq.jpg:large"
+    },
+    "86": {
+        "name": "若宮穂乃",
+        "name_ch": "若宮穂乃",
+        "height": 162,
+        "measurements": [93, 61, 95],
+        "cup": ["G"],
+        "info": "",
+        "sns": {
+            "youtube": "",
+            "twitter": "https://twitter.com/wakamiya_hono",
+            "instagram": "https://www.instagram.com/hono__wakamiya/",
+            "others": []
+        },
+        "rank": 4,
+        "tag": [4, 7, 8, 9],
+        "img": "https://pbs.twimg.com/media/Eszskf1U0AAz2h8?format=jpg&name=large"
+    },
+    "87": {
+        "name": "夏川うみ",
+        "name_ch": "夏川海",
+        "height": 150,
+        "measurements": [86, 62, 88],
+        "cup": ["E"],
+        "info": "",
+        "sns": {
+            "youtube": "",
+            "twitter": "https://twitter.com/natsukawaumi",
+            "instagram": "",
+            "others": []
+        },
+        "rank": 3,
+        "tag": [1, 6, 7, 8],
+        "img": "https://all-p.jp/wp-content/uploads/2022/08/S__4735014.jpg"
+    },
+    "88": {
+        "name": "熊倉しょうこ",
+        "name_ch": "熊倉祥子",
+        "height": 158,
+        "measurements": [87, 59, 87],
+        "cup": ["F"],
+        "info": "",
+        "sns": {
+            "youtube": "",
+            "twitter": "",
+            "instagram": "",
+            "others": []
+        },
+        "rank": 2,
+        "tag": [7, 8, 9],
+        "img": "https://i.pinimg.com/736x/a5/78/35/a57835b4aeaaf38775b925deae1fb2ae.jpg"
+    },
+    "89": {
+        "name": "篠田ゆう",
+        "name_ch": "篠田優",
+        "height": 155,
+        "measurements": [88, 60, 87],
+        "cup": ["F"],
+        "info": "",
+        "sns": {
+            "youtube": "https://www.youtube.com/@ch-dashino-3768/featured",
+            "twitter": "https://twitter.com/yu_shinoda",
+            "instagram": "https://www.instagram.com/yuu_shinoda/",
+            "others": []
+        },
+        "rank": 4,
+        "tag": [1, 4, 6, 7, 8, 9],
+        "img": "https://pbs.twimg.com/media/ErsCwG-U0AMAlPc?format=jpg&name=large"
+    },
+    "90": {
+        "name": "若菜奈央",
+        "name_ch": "若菜奈央",
+        "height": 171,
+        "measurements": [88, 58, 88],
+        "cup": ["F"],
+        "info": "",
+        "sns": {
+            "youtube": "https://www.youtube.com/channel/UCtGNZbYuR3f9sJI7mwRCkfw",
+            "twitter": "https://twitter.com/watashiwaerica",
+            "instagram": "https://www.instagram.com/watashiwa_erica/",
+            "others": []
+        },
+        "rank": 3,
+        "tag": [1, 4, 8, 9],
+        "img": "https://store18.17sex.vip/uploads/20220414/9A/99A863AB4B9Ew1080h1620.jpeg"
+    },
+    "91": {
+        "name": "桜井千春",
+        "name_ch": "櫻井千春",
+        "height": 154,
+        "measurements": [-1, -1, -1],
+        "cup": ["B"],
+        "info": "",
+        "sns": {
+            "youtube": "",
+            "twitter": "https://twitter.com/chiharu_203",
+            "instagram": "https://www.instagram.com/chiharu_3195/",
+            "others": []
+        },
+        "rank": 2,
+        "tag": [9, 12],
+        "img": "https://photos.s-cute.com/130901/sample/contents/795_chiharu/795_chiharu/008.jpg"
+    },
+    "92": {
+        "name": "伊織羽音",
+        "name_ch": "伊織羽音",
+        "height": 155,
+        "measurements": [95, 60, 90],
+        "cup": ["G"],
+        "info": "",
+        "sns": {
+            "youtube": "",
+            "twitter": "https://mobile.twitter.com/iori_uta_",
+            "instagram": "",
+            "others": []
+        },
+        "rank": 3,
+        "tag": [7, 8],
+        "img": "https://pbs.twimg.com/media/FKfxy4kaAAI-a1u?format=jpg&name=large"
+    },
+    "93": {
+        "name": "香坂紗梨",
+        "name_ch": "香坂紗梨",
+        "height": 157,
+        "measurements": [90, 60, 89],
+        "cup": ["H"],
+        "info": "",
+        "sns": {
+            "youtube": "",
+            "twitter": "https://twitter.com/sari_kousaka",
+            "instagram": "https://www.instagram.com/sari.kousaka/",
+            "others": []
+        },
+        "rank": 3,
+        "tag": [7, 8],
+        "img": "https://pbs.twimg.com/media/Ez4RlhYVIAMlMJI.jpg"
+    },
+    "94": {
+        "name": "初川みなみ",
+        "name_ch": "初川南",
+        "height": 156,
+        "measurements": [86, 59, 88],
+        "cup": ["D"],
+        "info": "",
+        "sns": {
+            "youtube": "",
+            "twitter": "https://twitter.com/hatsukawa_mnm",
+            "instagram": "https://www.instagram.com/hatsukaw_aminami/",
+            "others": []
+        },
+        "rank": 3,
+        "tag": [1, 4, 7, 9, 10],
+        "img": "https://pbs.twimg.com/media/EQBihp4UUAAl3CS?format=jpg&name=large"
+    },
+    "95": {
+        "name": "深月めい",
+        "name_ch": "深月芽衣",
+        "height": 150,
+        "measurements": [87, 58, 89],
+        "cup": ["F"],
+        "info": "",
+        "sns": {
+            "youtube": "",
+            "twitter": "https://mobile.twitter.com/mei_m_0717",
+            "instagram": "",
+            "others": []
+        },
+        "rank": 4,
+        "tag": [7, 8, 11],
+        "img": "https://pbs.twimg.com/media/FfVnntsakAAf611?format=jpg&name=medium"
+    },
+    "96": {
+        "name": "日泉舞香",
+        "name_ch": "日泉舞香",
+        "height": 161,
+        "measurements": [82, 57, 84],
+        "cup": ["A"],
+        "info": "",
+        "sns": {
+            "youtube": "",
+            "twitter": "https://twitter.com/hiizumimaika",
+            "instagram": "",
+            "others": []
+        },
+        "rank": 2,
+        "tag": [0, 1, 10, 12],
+        "img": "https://pbs.twimg.com/media/D_RfKXFUwAAN4NU?format=jpg&name=large"
+    },
+    "97": {
+        "name": "枢木あおい",
+        "name_ch": "樞木葵",
+        "height": 154,
+        "measurements": [82, 59, 88],
+        "cup": ["D"],
+        "info": "",
+        "sns": {
+            "youtube": "https://www.youtube.com/@user-gh5kr6vw3s",
+            "twitter": "https://twitter.com/aoi_krrg",
+            "instagram": "https://www.instagram.com/aoi_krrg/",
+            "others": []
+        },
+        "rank": 3,
+        "tag": [1,4,9,10,11],
+        "img": "https://stat.ameba.jp/user_images/20220414/17/king-bolick/ed/7a/j/o1080161815102853049.jpg?caw=800"
+    },
+    "98": {
+        "name": "栄川乃亜",
+        "name_ch": "榮川乃亞",
+        "height": 147,
+        "measurements": [79, 62, 83],
+        "cup": ["B"],
+        "info": "",
+        "sns": {
+            "youtube": "https://www.youtube.com/channel/UCvlUMZYbF4Ss-AbnuV6_4dw",
+            "twitter": "https://twitter.com/noa_eikawa",
+            "instagram": "https://www.instagram.com/noa_eikawa/",
+            "others": []
+        },
+        "rank": 5,
+        "tag": [1, 3, 9, 10, 12, 13],
+        "img": "https://stat.ameba.jp/user_images/20180607/23/yoshimegane/8b/20/j/o1200160014206863497.jpg?caw=800"
+    },
+    "99": {
+        "name": "有坂深雪",
+        "name_ch": "有坂深雪",
+        "height": 161,
+        "measurements": [82, 54, 84],
+        "cup": ["C"],
+        "info": "",
+        "sns": {
+            "youtube": "",
+            "twitter": "https://twitter.com/arisaka_miyuki",
+            "instagram": "https://www.instagram.com/miyuki_official17/",
+            "others": []
+        },
+        "rank": 1,
+        "tag": [4, 8, 9],
+        "img": "https://pbs.twimg.com/media/FNNx17GakAIVIdc?format=jpg&name=4096x4096"
+    }
+}

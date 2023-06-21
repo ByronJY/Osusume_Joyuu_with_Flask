@@ -1,0 +1,62 @@
+:root {
+    font-family: 'Noto Sans', '微軟正黑體', 'Microsoft Jhenghei', 'Gill Sans', 'Gill Sans MT', 'Calibri', 'Trebuchet MS', 'sans-serif';
+}
+
+body {
+    height: 100vh;
+    width: 100vw;
+    margin: 0;
+    border: 0;
+    background-color: rgb(252, 205, 213);
+    display: flex;
+    flex-wrap: nowrap;
+    flex-direction: column;
+    justify-content: center;
+    align-items: center;
+}
+
+div#box {
+    width: 30vw;
+    background-color: white;
+    padding: 10px;
+    border-radius: 10px;
+}
+
+div#box>h1 {
+    text-align: center;
+    margin-top: 0;
+}
+
+form {
+    display: flex;
+    flex-direction: column;
+}
+
+form>input {
+    width: 95%;
+    align-self: center;
+    margin: 5px 0 10px 0;
+}
+
+.btn {
+    width: auto;
+    background-color: rgb(235, 90, 114);
+    color: white;
+    border: 0;
+    border-radius: 5px;
+    padding: 5px;
+    font-size: large;
+    font-weight: bold;
+}
+
+a:link,
+a:visited {
+    color: gray;
+    font-size: smaller;
+}
+
+@media screen and (max-width: 700px) {
+    div#box {
+        width: 90vw;
+    }
+}

@@ -1,0 +1,49 @@
+<!DOCTYPE html>
+<html lang="en">
+
+<head>
+    <meta charset="UTF-8">
+    <meta http-equiv="X-UA-Compatible" content="IE=edge">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <link rel="shortcut icon" href="https://www1.pu.edu.tw/~s1101833/final/img/heart.ico" />
+    <link rel="bookmark" href="https://www1.pu.edu.tw/~s1101833/final/img/heart.ico" />
+    <title>{{ actress.name }}</title>
+    <link rel="stylesheet" href="https://cdnjs.cloudflare.com/ajax/libs/normalize/8.0.1/normalize.min.css">
+    <link rel="stylesheet" href="{{ url_for('static', filename='css/home.css') }}">
+    {% block style %}{% endblock %}
+</head>
+
+<body>
+    <header>
+        <div id="home_box">
+            <a href="{{ url_for('actresses') }}" id="home_url">Home</a>
+        </div>
+
+        {% if user %}
+        <div>
+            Welcome,
+            <a href="{{ url_for( 'myInfo' ) }}" id="my_info">{{ user }}</a>
+        </div>
+        {% else %}
+        <div>
+            <a href="{{ url_for( 'signUp' ) }}" id="sign_up">
+                <div class="btn" id="sign_up">Sign up</div>
+            </a>
+            <a href="{{ url_for( 'login' ) }}" id="login">
+                <div class="btn" id="login">Login</div>
+            </a>
+        </div>
+        {% endif %}
+    </header>
+    <div class="blank_box" id="header">{{ actress.name }}</div>
+
+    <div id="actresses">
+        {% block actress %}
+        {% endblock %}
+    </div>
+
+    {% block comments %}
+    {% endblock %}
+</body>
+
+</html>

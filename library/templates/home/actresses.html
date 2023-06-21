@@ -1,0 +1,129 @@
+{% extends "home/base.html" %}
+
+{% block style %}
+<link rel="stylesheet" href="{{ url_for('static', filename='css/actresses.css') }}">
+{% endblock %}
+
+
+{% block filter %}
+<div id="filter">
+    <form action="{{ url_for( 'actresses' ) }}" method="get" target="_self" id="filter">
+        <div id="tags_box">
+            {% for tag in tags%}
+            <div class="tag">
+                <label><input type="checkbox" name="tags[]" value="{{ tag['id'] }}" {% if tag["id"] in selected_tags
+                        %}checked{% endif %}><span>{{ tag['tag']
+                        }}</span></label>
+            </div>
+            {% endfor %}
+        </div>
+
+        <div id="btn_box">
+            <select name="sort" id="sort">
+                <option value="rank_desc" {% if sort=='rank_desc' %}selected{% endif %}>評分高到低</option>
+                <option value="rank_asc" {% if sort=='rank_asc' %}selected{% endif %}>評分低到高</option>
+                <option value="cup_desc" {% if sort=='cup_desc' %}selected{% endif %}>罩杯大到小</option>
+                <option value="cup_asc" {% if sort=='cup_asc' %}selected{% endif %}>罩杯小到大</option>
+            </select>
+
+            <input type="submit" value="篩選" id="filter_submit">
+        </div>
+    </form>
+</div>
+{% endblock %}
+
+
+{% block actresses %}
+<div id="actresses">
+    {% if actresses == -1 %}
+    <div class="no_result">幹甚麼幹甚麼</div>
+    <div class="no_result">哪來那麼多要求</div>
+    {% else %}
+    {% for actress in actresses %}
+    <div class="actress" id="{{ actress.id }}">
+        <div class="col" id="col1">
+            <img src="{{ actress.img_url }}" alt="{{ actress.name }}" class="actress_img" id="{{ actress.id }}">
+        </div>
+
+        <div class="col" id="col2">
+            <a href="{{ url_for( 'actress', id=actress.id ) }}">
+                <div class="name">{{ actress.name }}</div>
+            </a>
+
+            <a href="{{ url_for( 'actress', id=actress.id ) }}">
+                <div class="name_ch">{{ actress.name_ch }}</div>
+            </a>
+
+
+            <a href="{{ url_for( 'actress', id=actress.id ) }}">
+                <div class="rank">
+                    {% for star in range(actress.rank) %}
+                    <span class="star_filled">★</span>
+                    {% endfor %}
+                    {% for star in range(5-actress.rank) %}
+                    <span class="star_unfilled">☆</span>
+                    {% endfor %}
+                </div>
+            </a>
+
+
+        </div>
+
+        <div class="col" id="col3">
+            <a href="{{ url_for( 'actress', id=actress.id ) }}">
+                <div class="height">
+                    {% if actress.height == -1 %}
+                    N/A
+                    {% else %}
+
+                    {{ actress.height }}
+                    {% endif %}
+                </div>
+            </a>
+
+            <a href="{{ url_for( 'actress', id=actress.id ) }}">
+                <div class="measurements">
+                    {% if actress.bust == -1 or actress.waist == -1 or actress.hips == -1%}
+                    N/A
+                    {% else %}
+                    {{ actress.bust }}-{{ actress.waist }}-{{ actress.hips }} cm
+                    {% endif %}
+                </div>
+            </a>
+
+            <a href="{{ url_for( 'actress', id=actress.id ) }}">
+                <div class="cup">
+                    {% if actress.cups_same %}
+                    {{ actress.r_cup }}
+                    {% else %}
+                    右:{{ actress.r_cup }}，左:{{ actress.l_cup }}
+                    {% endif %}
+                </div>
+            </a>
+
+        </div>
+
+        <div class="col" id="col4">
+            <a href="{{ url_for( 'actress', id=actress.id ) }}"></a>
+        </div>
+
+        <div class="col" id="col5">
+            {% if actress.url_youtube %}
+            <a href="{{ actress.url_youtube }}" target="_blank" class="sns_url"><img
+                    src="https://www1.pu.edu.tw/~s1101833/final/img/youtube.svg" alt="Youtube" class="sns_icon"></a>
+            {% endif %}
+            {% if actress.url_twitter %}
+            <a href="{{ actress.url_twitter }}" target="_blank" class="sns_url"><img
+                    src="https://www1.pu.edu.tw/~s1101833/final/img/twitter.svg" alt="Twitter" class="sns_icon"></a>
+            {% endif %}
+            {% if actress.url_instagram %}
+            <a href="{{ actress.url_instagram }}" target="_blank" class="sns_url"><img
+                    src="https://www1.pu.edu.tw/~s1101833/final/img/instagram.svg" alt="Instagram" class="sns_icon"></a>
+            {% endif %}
+        </div>
+
+    </div>
+    {% endfor %}
+    {% endif %}
+    </ㄥdiv>
+    {% endblock %}

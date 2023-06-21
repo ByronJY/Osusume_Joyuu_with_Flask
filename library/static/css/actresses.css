@@ -1,0 +1,124 @@
+:root {
+    --col_width: 16.5%;
+    --block_width: 60vw;
+}
+
+div#filter {
+    width: var(--block_width);
+    background-color: white;
+    margin: 10px 0;
+    display: flex;
+    flex-direction: row;
+    padding: 10px;
+    border-radius: 15px;
+}
+
+form#filter {
+    width: 100%;
+}
+
+.tag {
+    margin: 4px;
+    background-color: white;
+    border-radius: 5px;
+    border: 1px solid rgb(208, 208, 208);
+    overflow: hidden;
+    float: left;
+}
+
+.tag label input {
+    position: absolute;
+    display: none;
+    color: #fff !important;
+}
+
+.tag input:checked+span {
+    color: #ffffff;
+    background-color: rgb(235, 90, 114);
+    border: 0 none rgba(255, 255, 255, 0);
+}
+
+#btn_box {
+    padding-top: 10px;
+    width: 100%;
+    display: flex;
+    justify-content: space-between;
+}
+
+select#sort {
+    background-color: white;
+    border: 1px solid rgb(208, 208, 208);
+    border-radius: 5px;
+}
+
+#filter_submit {
+    color: white;
+    border: 0 none rgba(255, 255, 255, 0);
+    border-radius: 5px;
+    background-color: rgb(235, 90, 114);
+    padding: 5px;
+}
+
+div.no_result {
+    width: var(--block_width);
+    text-align: center;
+}
+
+div.actress {
+    width: var(--block_width);
+    background-color: white;
+    height: 15vh;
+    margin: 10px 0;
+    display: flex;
+    flex-direction: row;
+    padding: 10px;
+    border-radius: 15px;
+}
+
+.col {
+    display: flex;
+    flex-direction: column;
+    width: var(--col_width);
+    align-items: center;
+    justify-content: center;
+}
+
+.col#col2>*,
+.col#col3>* {
+    height: 33%;
+    display: flex;
+    align-items: center;
+    justify-content: center;
+}
+
+.star_filled,
+.star_unfilled {
+    color: rgb(255, 225, 0);
+}
+
+.col#col4 {
+    width: calc(var(--col_width) * 2);
+}
+
+img.actress_img {
+    display: block;
+    position: relative;
+    height: 100%;
+    object-fit: contain;
+}
+
+a:link,
+a:visited {
+    text-decoration: none;
+    text-decoration-color: none;
+    color: black;
+}
+
+a.sns_url {
+    width: 20%;
+    margin: 1px;
+}
+
+img.sns_icon {
+    width: 100%;
+}

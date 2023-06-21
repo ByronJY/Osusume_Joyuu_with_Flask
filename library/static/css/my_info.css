@@ -1,0 +1,79 @@
+:root {
+    font-family: 'Noto Sans', '微軟正黑體', 'Microsoft Jhenghei', 'Gill Sans', 'Gill Sans MT', 'Calibri', 'Trebuchet MS', 'sans-serif';
+}
+
+body {
+    height: 100vh;
+    width: 100vw;
+    margin: 0;
+    border: 0;
+    background-color: rgb(252, 205, 213);
+    display: flex;
+    flex-wrap: nowrap;
+    flex-direction: column;
+    justify-content: flex-start;
+    align-items: center;
+}
+
+div#my_info {
+    width: 60vw;
+}
+
+#info_table {
+    background-color: white;
+    padding: 10px;
+    border-radius: 10px;
+}
+
+div.row {
+    display: flex;
+    flex-direction: row;
+    flex-wrap: wrap;
+    margin: 10px 5px;
+}
+
+.title {
+    font-weight: bold;
+    width: 18%;
+}
+
+div#favorites {
+    width: 60vw;
+}
+
+h1#favorites {
+    align-self: flex-start;
+}
+
+img.actress_img {
+    display: block;
+    position: relative;
+    height: 100%;
+    object-fit: contain;
+}
+
+a:link,
+a:visited {
+    text-decoration: none;
+    text-decoration-color: none;
+    color: black;
+}
+
+a.sns_url {
+    width: 20%;
+    margin: 1px;
+}
+
+img.sns_icon {
+    width: 100%;
+}
+
+@media screen and (max-width: 600px) {
+    div#my_info {
+        width: 95vw;
+    }
+
+    .title {
+        width: 100%;
+    }
+}

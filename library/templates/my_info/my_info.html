@@ -1,0 +1,117 @@
+{% extends "my_info/base.html" %}
+
+{% block style %}
+<link rel="stylesheet" href="{{ url_for('static', filename='css/my_info.css') }}">
+<link rel="stylesheet" href="{{ url_for('static', filename='css/actresses.css') }}">
+{% endblock %}
+
+
+{% block my_info %}
+<div id="my_info">
+    <h1>Hello {{ name }}</h1>
+    <div id="info_table">
+        <div class="row">
+            <div class="title" id="uid">UID: </div>
+            <div class="value" id="uid">{{ id }}</div>
+        </div>
+        <div class="row">
+            <div class="title" id="name">Name: </div>
+            <div class="value" id="name">{{ name }}</div>
+        </div>
+        <div class="row">
+            <div class="title" id="email">E-mail: </div>
+            <div class="value" id="email">{{ email }}</div>
+        </div>
+    </div>
+
+</div>
+
+<div id="favorites">
+    <h1 id="favorites">我的最愛</h1>
+</div>
+
+
+{% endblock %}
+
+{% block favorites %}
+<div id="actresses">
+    {% for actress in actresses %}
+    <div class="actress" id="{{ actress.id }}">
+        <div class="col" id="col1">
+            <img src="{{ actress.img_url }}" alt="{{ actress.name }}" class="actress_img" id="{{ actress.id }}">
+        </div>
+
+        <div class="col" id="col2">
+            <a href="{{ url_for( 'actress', id=actress.id ) }}">
+                <div class="name">{{ actress.name }}</div>
+            </a>
+
+            <a href="{{ url_for( 'actress', id=actress.id ) }}">
+                <div class="name_ch">{{ actress.name_ch }}</div>
+            </a>
+
+
+            <a href="{{ url_for( 'actress', id=actress.id ) }}">
+                <div class="rank">
+                    {% for star in range(actress.rank) %}
+                    <span class="star_filled">★</span>
+                    {% endfor %}
+                    {% for star in range(5-actress.rank) %}
+                    <span class="star_unfilled">☆</span>
+                    {% endfor %}
+                </div>
+            </a>
+
+
+        </div>
+
+        <div class="col" id="col3">
+            <a href="{{ url_for( 'actress', id=actress.id ) }}">
+                <div class="height">{{ actress.height }}</div>
+            </a>
+
+            <a href="{{ url_for( 'actress', id=actress.id ) }}">
+                <div class="measurements">
+                    {% if actress.bust == -1 or actress.waist == -1 or actress.hips == -1%}
+                    N/A
+                    {% else %}
+                    {{ actress.bust }}-{{ actress.waist }}-{{ actress.hips }} cm
+                    {% endif %}
+                </div>
+            </a>
+
+            <a href="{{ url_for( 'actress', id=actress.id ) }}">
+                <div class="cup">
+                    {% if actress.cups_same %}
+                    {{ actress.r_cup }}
+                    {% else %}
+                    右:{{ actress.r_cup }}，左:{{ actress.l_cup }}
+                    {% endif %}
+                </div>
+            </a>
+
+        </div>
+
+        <div class="col" id="col4">
+            <a href="{{ url_for( 'actress', id=actress.id ) }}"></a>
+        </div>
+
+        <div class="col" id="col5">
+            {% if actress.url_youtube %}
+            <a href="{{ actress.url_youtube }}" target="_blank" class="sns_url"><img
+                    src="https://www1.pu.edu.tw/~s1101833/final/img/youtube.svg" alt="Youtube" class="sns_icon"></a>
+            {% endif %}
+            {% if actress.url_twitter %}
+            <a href="{{ actress.url_twitter }}" target="_blank" class="sns_url"><img
+                    src="https://www1.pu.edu.tw/~s1101833/final/img/twitter.svg" alt="Twitter" class="sns_icon"></a>
+            {% endif %}
+            {% if actress.url_instagram %}
+            <a href="{{ actress.url_instagram }}" target="_blank" class="sns_url"><img
+                    src="https://www1.pu.edu.tw/~s1101833/final/img/instagram.svg" alt="Instagram" class="sns_icon"></a>
+            {% endif %}
+        </div>
+
+    </div>
+    {% endfor %}
+</div>
+{% endblock %}

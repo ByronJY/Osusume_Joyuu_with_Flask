@@ -1,0 +1,149 @@
+:root {
+    --col_width: 19%;
+    --block_width: 60vw;
+}
+
+a.favorite:link,
+a.favorite:visited {
+    text-decoration: none;
+}
+
+.favorite#no_heart {
+    color: gray;
+}
+
+.favorite#heart {
+    color: rgb(235, 90, 114);
+}
+
+
+div.actress {
+    width: var(--block_width);
+    background-color: white;
+    height: 15vh;
+    margin: 10px 0;
+    display: flex;
+    flex-direction: row;
+    padding: 10px;
+    border-radius: 15px;
+}
+
+.col {
+    display: flex;
+    flex-direction: column;
+    width: var(--col_width);
+    align-items: center;
+    justify-content: center;
+}
+
+.col#col2>*,
+.col#col3>* {
+    height: 33%;
+    display: flex;
+    align-items: center;
+    justify-content: center;
+}
+
+.star_filled,
+.star_unfilled {
+    color: rgb(255, 225, 0);
+}
+
+.col#col4 {
+    width: calc(var(--col_width) * 2);
+    flex-direction: row;
+    flex-wrap: wrap;
+    align-items: flex-start;
+    justify-content: flex-start;
+}
+
+#img_box {
+    display: flex;
+    justify-content: center;
+    height: 50vh;
+}
+
+img.actress_img {
+    display: block;
+    height: 100%;
+    object-fit: contain;
+}
+
+input.tag_btn {
+    background-color: rgb(235, 90, 114);
+    color: white;
+    border: 0;
+    border-radius: 5px;
+    margin: 1px;
+}
+
+a.sns_url {
+    width: 20%;
+    margin: 1px;
+}
+
+img.sns_icon {
+    width: 100%;
+}
+
+div#comments {
+    display: flex;
+    flex-wrap: wrap;
+    width: var(--block_width);
+
+}
+
+h2#comments {
+    width: 100%;
+    text-align: left;
+}
+
+div#input_box {
+    width: var(--block_width);
+    /* background-color: white; */
+    /* margin: 10px 0; */
+    display: flex;
+    flex-direction: row;
+    padding: 10px;
+    border-radius: 15px;
+}
+
+form#comment {
+    width: 100%;
+}
+
+input#comment {
+    width: 100%;
+    margin: 1px;
+}
+
+input#submit {
+    color: white;
+    border: 0 none rgba(255, 255, 255, 0);
+    border-radius: 5px;
+    background-color: rgb(235, 90, 114);
+    padding: 5px;
+    margin-top: 5px;
+}
+
+div.comment {
+    width: var(--block_width);
+    background-color: white;
+    margin: 5px 0;
+    display: flex;
+    flex-direction: column;
+    justify-content: center;
+    padding: 10px;
+    border-radius: 15px;
+}
+
+div.comment_user {
+    color: rgb(235, 90, 114);
+    font-weight: bold;
+}
+
+div.comment#comment {
+    background-color: rgba(255, 255, 255, 0);
+    padding: 0;
+    margin: 5px 0 5px 15px;
+}

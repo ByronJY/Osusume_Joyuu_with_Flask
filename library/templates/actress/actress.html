@@ -1,0 +1,112 @@
+{% extends "actress/base.html" %}
+
+{% block style %}
+<link rel="stylesheet" href="{{ url_for('static', filename='css/actress.css') }}">
+{% endblock %}
+
+{% block actress %}
+<h1>{{ actress.name }}
+    {% if favorite %}
+    <a href="{{ url_for( 'favorate') }}?id={{ actress.id }}" class="favorite" id="heart">♥</a>
+    {% else %}
+    <a href="{{ url_for( 'favorate') }}?id={{ actress.id }}" class="favorite" id="no_heart">♡</a>
+    {% endif %}
+</h1>
+
+<div id="img_box">
+    <img src="{{ actress.img_url }}" alt="{{ actress.name }}" class="actress_img" id="{{ actress.id }}">
+</div>
+<div class="actress" id="{{ actress.id }}">
+    <!-- <div class="col" id="col1">
+            <img src="{{ actress.img_url }}" alt="{{ actress.name }}" class="actress_img" id="{{ actress.id }}">
+        </div> -->
+
+    <div class="col" id="col2">
+        <div class="name">{{ actress.name }}</div>
+        <div class="name_ch">{{ actress.name_ch }}</div>
+
+        <div class="rank">
+            {% for star in range(actress.rank) %}
+            <span class="star_filled">★</span>
+            {% endfor %}
+            {% for star in range(5-actress.rank) %}
+            <span class="star_unfilled">☆</span>
+            {% endfor %}
+        </div>
+
+    </div>
+
+    <div class="col" id="col3">
+        <div class="height">
+            {% if actress.height == -1 %}
+            N/A
+            {% else %}
+
+            {{ actress.height }}
+            {% endif %}
+        </div>
+        <div class="measurements">
+            {% if actress.bust == -1 or actress.waist == -1 or actress.hips == -1%}
+            N/A
+            {% else %}
+            {{ actress.bust }}-{{ actress.waist }}-{{ actress.hips }} cm
+            {% endif %}
+        </div>
+        <div class="cup">
+            {% if actress.cups_same %}
+            {{ actress.r_cup }}
+            {% else %}
+            右:{{ actress.r_cup }}，左:{{ actress.l_cup }}
+            {% endif %}
+        </div>
+    </div>
+
+    <div class="col" id="col4">
+        {% for tag in tags %}
+        <input type="button" value="{{ tag.tag }}" class="tag_btn">
+        {% endfor %}
+    </div>
+
+    <div class="col" id="col5">
+        {% if actress.url_youtube %}
+        <a href="{{ actress.url_youtube }}" target="_blank" class="sns_url"><img
+                src="https://www1.pu.edu.tw/~s1101833/final/img/youtube.svg" alt="Youtube" class="sns_icon"></a>
+        {% endif %}
+        {% if actress.url_twitter %}
+        <a href="{{ actress.url_twitter }}" target="_blank" class="sns_url"><img
+                src="https://www1.pu.edu.tw/~s1101833/final/img/twitter.svg" alt="Twitter" class="sns_icon"></a>
+        {% endif %}
+        {% if actress.url_instagram %}
+        <a href="{{ actress.url_instagram }}" target="_blank" class="sns_url"><img
+                src="https://www1.pu.edu.tw/~s1101833/final/img/instagram.svg" alt="Instagram" class="sns_icon"></a>
+        {% endif %}
+    </div>
+
+</div>
+{% endblock %}
+
+
+{% block comments %}
+<div id="comments">
+    <h2 id="comments">留言</h2>
+    <div id="input_box">
+        {% if user %}
+        <form action="{{ url_for('comment') }}" method="post" id="comment">
+            <input type="text" name="actress_id" id="actress_id" value="{{ actress.id }}" hidden>
+            <input type="text" id="comment" name="comment">
+
+            <input type="submit" value="發表" id="submit">
+        </form>
+        {% else %}
+        <div><a href="{{ url_for('login') }}">登入</a>以加入討論</div>
+        {% endif %}
+    </div>
+
+    {% for comment in comments %}
+    <div class="comment">
+        <div class="comment_user">{{ comment['name'] }}：</div>
+        <div class="comment" id="comment">{{ comment['comment']}}</div>
+    </div>
+    {% endfor %}
+</div>
+{% endblock %}
